@@ -1,0 +1,14 @@
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\VenueServiceRequester.dll
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\VenueServiceRequester.pdb
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\DALRESTfulUtil.dll
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\DALRESTfulUtil.pdb
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\DALRESTfulUtil.dll.config
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\obj\Debug\VenueServiceRequester.csprojAssemblyReference.cache
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\obj\Debug\VenueServiceRequester.csproj.CoreCompileInputs.cache
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\obj\Debug\VenueServiceRequester.csproj.CopyComplete
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\obj\Debug\VenueServiceRequester.dll
+C:\Users\FridaH\Documents\ST\ST3\NVK\VenueServiceRequester\VenueServiceRequester\obj\Debug\VenueServiceRequester.pdb
